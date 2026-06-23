@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drbellhealth.github.io/it-support-lake-mary-reader/sitemap.xml
